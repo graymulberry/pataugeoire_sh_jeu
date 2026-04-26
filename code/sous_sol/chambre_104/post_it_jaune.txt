@@ -1,0 +1,28 @@
+______________________________________________________
+/                                                      \
+|  Tu bloques sur la porte, hein ?                     |
+|                                                      |
+|  Dans ce monde, on ne crochète pas les serrures.     |
+|  On modifie les privilèges.                          |
+|                                                      |
+|  Tout fichier est un club VIP avec 3 types de gens : |
+|   - u : le propriétaire (toi)                        |
+|   - g : le groupe d'amis                             |
+|   - o : les autres (les intrus)                      |
+|                                                      |
+|  Et pour chacun, le videur vérifie 3 droits :        |
+|   - r : Lire (Read)                                  |
+|   - w : Écrire (Write)                               |
+|   - x : Exécuter (eXecute)                           |
+|                                                      |
+|  Actuellement, le fichier de la chambre est scellé.  |
+|  Zéro droit. Pour personne.                          |
+|  Tu vas devoir forcer le videur à changer le MODE    |
+|  d'accès du fichier pour t'octroyer le droit de      |
+|  lecture. Seulement à toi.                           |
+|                                                      |
+|  P.S. : Si tu ne connais pas la commande pour        |
+|  changer les permissions, demande au système.        |
+|  Essaie de taper :  apropos permission               |
+|  ou :               apropos "file mode"              |
+\______________________________________________________/

@@ -1,0 +1,92 @@
+
+
+                                                                                     
+ ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### 
+                                                                                     
+ ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### 
+
+
+ ######     #    #######    #    #     #  #####  ####### ####### ### ######  ####### 
+ #     #   # #      #      # #   #     # #     # #       #     #  #  #     # #       
+ #     #  #   #     #     #   #  #     # #       #       #     #  #  #     # #       
+ ######  #     #    #    #     # #     # #  #### #####   #     #  #  ######  #####   
+ #       #######    #    ####### #     # #     # #       #     #  #  #   #   #       
+ #       #     #    #    #     # #     # #     # #       #     #  #  #    #  #       
+ #       #     #    #    #     #  #####   #####  ####### ####### ### #     # ####### 
+                                                                                     
+                                                                                     
+                                                                                     
+ ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### 
+                                                                                     
+ ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### 
+                                                                                     
+                                                                                     
+                                                                                     
+Félicitations. Tu as ouvert un terminal.
+C'est déjà plus courageux que la plupart des gens que tu connais.
+
+Voilà la situation :
+
+  Quelqu'un t'aime en secret.
+  Cette personne a laissé des indices dans ce dossier.
+  Tu dois les trouver.
+
+Mais cette personne est... compliquée.
+Elle communique exclusivement par fichiers texte.
+Elle range ses sentiments dans des sous-dossiers.
+Elle cache ses émotions derrière des droits d'accès.
+
+Bref. C'est un ou une informaticienne.
+L'amour prend toutes les formes.
+
+══════════════════════════════════════════════════════════
+
+SURVIVAL KIT — commandes de base
+
+  pwd             → où suis-je ?
+  ls              → qu'est-ce qu'il y a ici ?
+  cd <dossier>    → entrer dans un dossier
+  cd ..           → remonter d'un niveau
+  cat <fichier>   → lire le contenu d'un fichier
+  less <fichier>  → lire un long fichier (flèches pour défiler, 'q' pour quitter)
+  clear           → nettoyer l'écran (très utile pour souffler)
+
+  Pour en savoir plus sur une commande :
+        man <commande>
+  (ex : man ls    pour découvrir toutes ses options)
+  (     q         pour quitter le manuel)
+
+══════════════════════════════════════════════════════════
+
+RÈGLES DU JEU
+
+  - Tu joues dans ce terminal. Uniquement ici.
+  - Chaque indice trouvé te mène au suivant.
+  - Quand tu penses avoir trouvé l'identité de ton admirateur·ice :
+
+        ./solution.sh <prénom> 
+
+  - Une seule tentative ne suffit pas toujours.
+    Comme en amour.
+
+══════════════════════════════════════════════════════════
+
+MISSION 01 — Le premier signe
+
+Tu as reçu un courrier.
+Enfin... des courriers. Beaucoup de courriers.
+
+Quelqu'un a glissé quelque chose dans l'un des sous-dossiers
+du répertoire courriers/.
+Un fichier discret. Qui ne se montre pas par défaut.
+
+Sache que dans ce monde, les choses cachées commencent 
+toujours par un point (.). À toi de trouver comment forcer 
+le système à te les montrer.
+
+  Commandes suggérées : ls   cd   cat
+  En cas de doute :     man ls
+
+Bonne chance. Tu vas en avoir besoin.     
+                                                                                                                    
+                                                                                                                    
