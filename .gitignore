@@ -53,3 +53,23 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+ 
+# Linux
+*~
+ 
+# Windows
+Thumbs.db
+desktop.ini
+ 
+# Editeurs
+*.swp
+*.swo
+.vscode/
+.idea/
+ 
+
