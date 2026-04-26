@@ -30,6 +30,7 @@ Ce projet s'inspire de :
 ```sh
 # 1. Télécharger et extraire l'archive
 tar -xzf jeu.tar.gz
+Lien : [Pataugeoire - jeu.tar.gz](https://github.com/graymulberry/pataugeoire_sh_jeu/blob/main/jeu.tar.gz)
 
 # 2. Se placer dans le dossier du jeu
 cd draft_pataugeaoire_jeu
